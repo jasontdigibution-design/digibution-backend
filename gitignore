@@ -1,0 +1,5 @@
+# Node modules
+node_modules
+
+# Secret credentials file
+credentials.json
